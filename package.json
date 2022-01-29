@@ -1,0 +1,9 @@
+{
+  "name": "serum-dex",
+  "version": "1.0.0",
+  "description": "Dez's Serum Dex",
+  "main": "index.js",
+  "repository": "https://github.com/dezzydez007/serum-dex.git",
+  "author": "dezzydez007 <nkefuan@yahoo.com>",
+  "license": "MIT"
+}
